@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box  ;
+}
+
+body{
+    background-color: rgba(165, 149, 129, 0.781);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.container h1{
+    color: blue;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 15px;
+    text-transform: capitalize;
+}
+.container h4 {
+    color: red;
+
+}
