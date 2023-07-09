@@ -13,6 +13,3 @@ population.addEventListener('click', () =>{
 languages.addEventListener('click', () =>{
     para.textContent = '10 Most spoken languages in the world'
 })
-
-
-import countries_data from "./countries";
